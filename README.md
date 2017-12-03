@@ -25,7 +25,7 @@ Policorrect is deployed at
 * **Veronica Lai** - *Initial work* - [magicca](https://github.com/magicca)
 * **Y. Brian Lee** - *Initial work* - [yxblee](https://github.com/yxblee)
 
-# Areas of responsibility
+### Areas of responsibility
 
 * **Amy Hong** - Idea and concept, Front-end (layout with HTML5 & CSS3, web design using bootstrap), database(DB) of words and phrases with javascript and QnA maker, applied DB into chatbot, deployed the result on Azure Web Services, and a brief presentation on the day of the hackathon.
 * **Veronica Lai** - Idea and concept, Name of this project(Policorrect), tried to apply chatbot on slack (didn't run successfully)
